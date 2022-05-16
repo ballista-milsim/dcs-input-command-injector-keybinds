@@ -1,0 +1,16 @@
+metashaders2/
+Config/*
+Data/
+ImagesShop/
+Kneeboard/
+Liveries/
+Logs/
+MissionEditor/
+Missions/
+Mods/
+ScreenShots/
+Scripts/
+Tracks/
+fxo/
+!Config/Input/
+!InputCommands/
